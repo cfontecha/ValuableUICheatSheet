@@ -1,6 +1,6 @@
 # ValuableUICheatSheet
 
-10 Ways To Improve UI
+9 Ways To Improve UI
 
 1) Adding Tab Order To Fields
 / This is important because desktop users like to use their keyboards to fill a form fast.
@@ -21,4 +21,11 @@
 - Facebook/Twitter/Google Login.
 - User Profile Picture Icon
 
+7) Handling Common User Mistakes
+/ Examples include, but are not limited to:
+- Let users know that they are inputting a password when their capslock is on.
+- Let users know they have inputted an invalid email address. e.g. acklen@acklen
 
+8) Remembering Form Field Values
+
+9) Adding A Calendar Popup For Date Inputs
